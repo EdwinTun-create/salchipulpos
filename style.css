@@ -24,3 +24,9 @@ body {
     margin: 20px;
 
 }
+
+.tenor-gif-embed {
+    max-width: 260px !important; /* Evita que se haga gigante */
+    width: 100%;
+    margin: 0 auto;             /* Lo mantiene bien centrado */
+}
